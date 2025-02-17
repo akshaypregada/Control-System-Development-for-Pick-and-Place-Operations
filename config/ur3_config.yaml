@@ -1,0 +1,10 @@
+# ur3_config.yaml
+# Configuration File for UR-3 Robotic Arm
+robot:
+  joints:
+    - joint_1
+    - joint_2
+    - joint_3
+    - joint_4
+    - joint_5
+    - joint_6
